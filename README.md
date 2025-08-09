@@ -1,21 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Setyo Aji Imam Maliki 👋
 
-<!--
-**saimskywalker/saimskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Structural Civil Engineer** and **Safety Engineer** transitioning into the world of **Software Engineering**. Passionate about building safe, efficient, and innovative solutions across disciplines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🏗️ Experienced in structural and safety engineering  
+- 💻 Currently learning software development and prompt engineering  
+- 🚀 Terminal enthusiast using **Warp** for a faster, smarter command-line experience  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sa-im/)
 
-**Activity**
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimskywalker&layout=donut)](https://github.com/saimskywalker)
+### My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimskywalker&layout=donut&theme=radical)](https://github.com/saimskywalker)
+
+---
+
+### What I’m Exploring  
+- Building foundational software engineering skills  
+- Diving into automation and scripting  
+- Exploring prompt engineering and AI tools  
+
+---
+
+Feel free to reach out or collaborate — always open to meaningful connections and learning opportunities!
+
+---
+
+⚡ **Fun fact:** Warp terminal has changed how I interact with the command line — it’s a game-changer for productivity!
 
