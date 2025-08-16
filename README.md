@@ -7,7 +7,8 @@ I’m a **Structural Civil Engineer** and **Safety Engineer** transitioning into
 ### About Me
 - 🏗️ Experienced in structural and safety engineering  
 - 💻 Currently learning software development and prompt engineering  
-- 🚀 Terminal enthusiast using **Warp** for a faster, smarter command-line experience  
+- 🚀 Terminal enthusiast using **Warp** for a faster, smarter command-line experience
+- 🧬 Check my personal website [Website](https://www.imaji.life/) 
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sa-im/)
 
 ---
