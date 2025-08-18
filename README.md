@@ -15,7 +15,7 @@ I’m a **Structural Civil Engineer** and **Safety Engineer** transitioning into
 
 ### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimskywalker&layout=donut-vertical)](https://github.com/saimskywalker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimskywalker&layout=donut)](https://github.com/saimskywalker/github-readme-stats)
 
 ---
 
