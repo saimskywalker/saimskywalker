@@ -29,5 +29,5 @@ Feel free to reach out or collaborate — always open to meaningful connections 
 
 ---
 
-⚡ **Fun fact:** Warp terminal has changed how I interact with the command line — it’s a game-changer for productivity!
+⚡ **Fun fact:** iTerm terminal has changed how I interact with the command line — it’s a game-changer for productivity!
 
