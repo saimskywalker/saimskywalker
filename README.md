@@ -16,10 +16,7 @@
 ---
 
 ### 🚀 About Me
-I transitioned from **Structural Civil Engineering** to **Software Development**.
-
-- 🔭 I’m currently working on **FullStack Projects**
-- 🌱 I’m currently learning **System Design**
+🔭 I’m currently working on **FullStack Projects**
 
 ---
 
