@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=600&lines=Setyo+Aji+%7C+Product+Engineer;Civil+Engineer+turned+Software+Builder;Designing+Systems%2C+Media%2C+and+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Setyo+Aji+%7C+Product+Engineer;Civil+Engineer+turned+Software+Builder;Rust+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+TypeScript;Designing+Systems%2C+Media%2C+and+Experiences" alt="Typing SVG" />
 
 # Setyo Aji
 
 ### Product Engineer • Systems Thinker • Builder
 
 Building scalable products, interactive media systems, and cross-platform applications.  
-Currently exploring rendering pipelines, editor architectures, and high-performance software.
+Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/setyoajiimamm/">
@@ -26,29 +26,31 @@ Currently exploring rendering pipelines, editor architectures, and high-performa
 
 - 🏗️ Former Civil Engineer transitioning into Software Engineering
 - 📱 Building cross-platform applications with Flutter
+- ⚛️ Developing modern web applications with React & TypeScript
+- 🦀 Exploring systems programming and performance-oriented tooling with Rust
 - 🎬 Interested in media pipelines, rendering systems, and interactive editors
 - 🧠 Strong focus on system design, UX engineering, and scalable architecture
 - 🛠️ Building products across frontend, backend, mobile, and infrastructure layers
-- 🌱 Currently exploring Rust, Go, WebAssembly, and distributed systems
 
 ---
 
 ## 🧩 Current Interests
 
 - Flutter & cross-platform engineering
+- Rust-powered tooling & performance systems
+- React ecosystem & frontend architecture
 - Video & audio processing workflows
 - Timeline/editor architecture
 - Real-time rendering systems
 - Scalable backend infrastructure
 - Developer tooling & automation
-- Product-focused engineering
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,rust,go,ts,js,react,nodejs,docker,postgres,redis,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,rust,go,react,ts,js,nodejs,docker,postgres,redis,git,linux&theme=dark" />
 </div>
 
 ---
