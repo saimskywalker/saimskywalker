@@ -19,14 +19,14 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 ---
 
-## ⚡ About Me
+## About Me
 
-- 🏗️ Former Civil Engineer transitioning into Software Engineering
-- 📱 Building cross-platform applications with Flutter
+- Former Civil Engineer transitioning into Software Engineering
+- Building cross-platform applications with Flutter
 
 ---
 
-## 🧩 Current Interests
+## Current Interests
 
 - Flutter & cross-platform engineering
 - Rust-powered tooling & performance systems
@@ -39,7 +39,7 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,rust,go,react,ts,js,nodejs,docker,postgres,redis,git,linux&theme=dark" />
@@ -47,7 +47,7 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 ---
 
-## 📌 Philosophy
+## Philosophy
 
 > Good engineering is not just about making things work.  
 > It's about designing systems that remain understandable, scalable, and resilient under pressure.
