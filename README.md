@@ -4,7 +4,7 @@
 
 # Setyo Aji
 
-### Product Engineer • Systems Thinker • Builder
+### Product Engineer • Software Engineer
 
 Building scalable products, interactive media systems, and cross-platform applications.  
 Focused on Rust, Flutter, React, and TypeScript ecosystems.
