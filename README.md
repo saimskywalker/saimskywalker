@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Setyo+Aji+%7C+Product+Engineer;Civil+Engineer+turned+Software+Builder;Rust+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+TypeScript;Designing+Systems%2C+Media%2C+and+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Setyo+Aji+Imam Maliki+%7C+Product+Engineer;Civil+Engineer+turned+Software+Builder;Rust+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+TypeScript;Designing+Systems%2C+Media%2C+and+Experiences" alt="Typing SVG" />
 
-# Setyo Aji
+# Setyo Aji Imam Maliki
 
 ### Product Engineer • Software Engineer
 
