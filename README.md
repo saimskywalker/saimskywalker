@@ -13,9 +13,6 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
   <a href="https://www.linkedin.com/in/setyoajiimamm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.imaji.life/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
 </p>
 
 </div>
@@ -26,11 +23,6 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 - 🏗️ Former Civil Engineer transitioning into Software Engineering
 - 📱 Building cross-platform applications with Flutter
-- ⚛️ Developing modern web applications with React & TypeScript
-- 🦀 Exploring systems programming and performance-oriented tooling with Rust
-- 🎬 Interested in media pipelines, rendering systems, and interactive editors
-- 🧠 Strong focus on system design, UX engineering, and scalable architecture
-- 🛠️ Building products across frontend, backend, mobile, and infrastructure layers
 
 ---
 
