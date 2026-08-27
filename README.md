@@ -46,8 +46,3 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 </div>
 
 ---
-
-## Philosophy
-
-> Good engineering is not just about making things work.  
-> It's about designing systems that remain understandable, scalable, and resilient under pressure.
