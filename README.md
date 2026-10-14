@@ -10,6 +10,9 @@ Building scalable products, interactive media systems, and cross-platform applic
 Focused on Rust, Flutter, React, and TypeScript ecosystems.
 
 <p align="center">
+  <a href="https://www.imaji.de">
+    <img src="https://img.shields.io/badge/imaji.de-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/setyoajiimamm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
