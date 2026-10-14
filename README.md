@@ -46,3 +46,23 @@ Focused on Rust, Flutter, React, and TypeScript ecosystems.
 </div>
 
 ---
+
+## Projects
+
+**Flutter & Android tooling**
+
+- [flutter-imaji-test-hang](https://github.com/saimskywalker/flutter-imaji-test-hang) — catch Flutter test deadlocks before CI hangs
+- [flutter-imaji-binary-sdk](https://github.com/saimskywalker/flutter-imaji-binary-sdk) — wrap a closed-source binary SDK (XCFramework, AAR) as a Flutter plugin or native modules
+- [android-imaji-16kb-alignment](https://github.com/saimskywalker/android-imaji-16kb-alignment) — Google Play 16 KB page-size check for APK/AAB
+
+**Media**
+
+- [rust-imaji-widevine-pssh](https://github.com/saimskywalker/rust-imaji-widevine-pssh) — Rust crate for Widevine PSSH boxes, AES-128 HLS encryption and FairPlay helpers
+
+**Civil engineering (Indonesian standards, Rust)**
+
+- [irigasi-imaji-kp-hydraulics](https://github.com/saimskywalker/irigasi-imaji-kp-hydraulics) — irrigation hydraulics following Kriteria Perencanaan KP-01–07
+- [sni-imaji-structural-design](https://github.com/saimskywalker/sni-imaji-structural-design) — structural design checks to SNI 1726, 1727, 1729 and 2847
+- [ifc-imaji-sni-compliance](https://github.com/saimskywalker/ifc-imaji-sni-compliance) — check an openBIM IFC model against SNI requirements (early)
+
+---
